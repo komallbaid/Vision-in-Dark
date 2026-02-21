@@ -140,7 +140,7 @@ video-detection-framework/
 ### Step 1 — Clone the repository
 
 ```
-git clone https://github.com/yourusername/Vision-in-Dark.git
+git clone https://github.com/komallbaid/Vision-in-Dark.git
 cd Vision-in-Dark
 ```
 
